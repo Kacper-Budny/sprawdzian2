@@ -1,0 +1,51 @@
+table {
+    border: solid black;
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+td,tr {
+    border-collapse: collapse;
+    border: solid black;
+}
+
+.td1 {
+    background-color: black;
+}
+
+.lista1 {
+    list-style: decimal;
+}
+.tytul {
+    color:green;
+}
+
+.table1 {
+    border: solid white;
+}
+
+.tr1 {
+    border: solid white;
+    border-collapse: collapse;
+}
+ .kwad1 {
+    margin-right: 10px;
+    background-color: red;
+    padding: 10px;
+    border-color: white;
+ }
+ .kwad2 {
+    margin-right: 10px;
+    background-color: green;
+    padding: 10px;
+    border-color: white;
+ }
+
+ .niew {
+    margin-right: 10px;
+    background-color: white;
+    padding: 10px;
+    border-color: white;
+ }
+
+
